@@ -1,7 +1,5 @@
 # 🚢 Titanic 生存預測 — 神經網路模型 (titanic_nn.py / titanic_nn_improved.py)
 
-[toc]
-
 本專案使用經典 **Kaggle Titanic 資料集**，建立並比較兩個版本的神經網路模型（**Baseline** 與 **Improved**），用以預測乘客是否存活。
 
 專案重點在於**資料前處理**、**模型架構設計**、**性能比較**與**模型改進方法**。
